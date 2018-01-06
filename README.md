@@ -22,9 +22,8 @@ https://huusz.github.io/2017/Git/GIT/01.git-connect-github/
 
 프로젝트 엘리먼트 네이밍 가이드라인
 ----------
-
-![로딩화면 :  Hammer.java , hammer.xml](/images/load_img.PNG)
-
+![](/images/load_img.PNG)
+* 로딩화면 :  Hammer.java , hammer.xml
 * 메인화면   액티비티를 바꾸고 
 * 메인화면 :  HammerMain.java ,hammer_main.xml 
 * 메인화면으로가기(아래 왼쪽 1번째)
