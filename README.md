@@ -20,3 +20,16 @@ https://huusz.github.io/2017/Git/GIT/01.git-connect-github/
 * 10 : github 레포지터리에서 정상적으로 올라갔는지 확인하세요
 
 
+프로젝트 엘리먼트 네이밍 가이드라인
+----------
+
+![로딩화면 :  Hammer.java , hammer.xml](/images/load_img.PNG)
+
+* 메인화면   액티비티를 바꾸고 
+* 메인화면 :  HammerMain.java ,hammer_main.xml 
+* 메인화면으로가기(아래 왼쪽 1번째)
+* 리스트(아래 왼쪽  2번째)  list.java
+* 글쓰기(아래 왼쪽  3번째) boardWrite.java board_write.xml
+* 마이페이지(아래 왼쪽 4번째) myPage.java, my_page.xml 
+
+![](/images/main_img.PNG)
